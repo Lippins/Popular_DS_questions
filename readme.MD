@@ -15,7 +15,7 @@ Analysis was directed towards identifying the most popular topics, how they are 
 ## Findings
 Machine learning, python and deep learning are the most popular data science topics on DSSE. However, due to the broad nature of machine learning and python, we focused on the relatively narrower alternative - **deep learning**.
 
-<img src='./images/deep_learning_trend.png'/><br>
+<img src='./images/deep_learning_trend.png' width= 600 height=400/><br>
 
 Interestingly, deep learning has grown in popularity on DSSE, rising from over 5% of total DSSE questions in 2014 to over 30% in 2016. Though this growth appears to have plateaued, deep learning still accounts for over 30% of questions posted on DSSE to date. This signifies that its popularity is not just a short-lived one. Instead, it is a growing field of data science that people continue to engage with and explore.
 
